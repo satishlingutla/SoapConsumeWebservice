@@ -1,0 +1,8 @@
+This is the soap wnservice client
+=================================
+
+1. The Wsdl File copied from the server
+2. Using wsimport java files are generated. For simplicity I used wsimport -keep endpontUrl.
+But in production this is automated by the build script(gradle otr maven or ant script)
+
+
